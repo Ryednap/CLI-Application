@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "random": "cpp",
+        "future": "cpp",
+        "string": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "typeindex": "cpp",
+        "variant": "cpp",
+        "array": "cpp",
+        "iosfwd": "cpp"
+    }
+}
